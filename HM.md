@@ -18,5 +18,5 @@
 
 ### git merge name_name
 - Данная команда используется для сливания веток.
-git merge name_name
+git merge name_name.
 ### git diff
