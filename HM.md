@@ -3,7 +3,7 @@
 ### git --version
 
 ### git init
-
+- Инициализирует репозиторий.
 ### git status
 
 ### git add name_name
